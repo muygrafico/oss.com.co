@@ -15,8 +15,8 @@
       </div>
       <div class="collapse navbar-collapse" id="custom-collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="#home">Inicio</a></li>
-          <li><a href="#home">Nosotros</a></li>
+          <li><a href="index.php">Inicio</a></li>
+          <li><a href="nosotros.php">Nosotros</a></li>
           <li><a href="#home">Servicios</a></li>
           <li><a href="#testimonials">Hseq</a></li>
           <li><a href="#contact">Clientes</a></li>
