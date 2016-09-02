@@ -4,13 +4,44 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <title>Oilfield Services and supplies</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+  <link rel="stylesheet" href="css/nav-styles.css">
   <link rel="stylesheet" href="css/styles.css">
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 </head>
 <body>
+
+  <!-- Navigation start -->
+  <header class="header">
+    <nav class="navbar navbar-custom" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">
+            <img src="images/nav-logo.png" class="img-responsive" alt="">
+          </a>
+        </div>
+        <div class="collapse navbar-collapse" id="custom-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a class="active" href="#home">Inicio</a></li>
+            <li><a href="#home">Nosotros</a></li>
+            <li><a href="#home">Servicios</a></li>
+            <li><a href="#testimonials">Hseq</a></li>
+            <li><a href="#contact">Clientes</a></li>
+            <li><a href="#contact">Contáctenos</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Navigation end -->
+
   <div id="home-page">
     <section class="hero">
       <div class="img-hero"></div>
@@ -18,7 +49,7 @@
     <section class="main-slogan">
       <div class="container">
         <div class="row">
-          <div class="col-md-offset-3 col-md-6">
+          <div class="col-lg-offset-3 col-lg-6 col-md-offset-2 col-md-8">
             <h4>Hacemos bien las cosas para nuestra gente, nuestro ambiente y nuestra sociedad
             pero sobre todo para nuestros clientes.</h4>
           </div>
@@ -26,5 +57,7 @@
       </div>
     </section>
   </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 </html>

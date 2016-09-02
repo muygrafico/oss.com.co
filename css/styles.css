@@ -1,25 +1,25 @@
 /* home styles */
-body{
-  font-family: 'Open Sans', sans-serif;
-}
-#home-page section.hero .img-hero{
 
+body{ font-family: 'Open Sans', sans-serif}
+
+/* --------------------- home hero  --------------------- */
+#home-page section.hero .img-hero{
   background: url('/images/home-hero-bg.jpg');
   background-size: cover;
   background-position: 0 50%;
 }
 @media (min-width: 1100px) {
   #home-page section.hero .img-hero{
-    height: 360px;
-    background-position: 0 65%;
+    height: 300px;
+    /*background-position: 0 65%;*/
   }
 }
-
 @media (max-width: 1099px) {
   #home-page section.hero .img-hero{
-    height: 320px;
+    height: 250px;
   }
 }
+/* -------------------- home hero end  ------------------- */
 
 .main-slogan{
   padding: 2em;
@@ -30,4 +30,5 @@ body{
   color:white;
   line-height: 1.7em;
   text-align: center;
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.8);
 }

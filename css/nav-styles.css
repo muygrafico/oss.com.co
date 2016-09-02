@@ -1,0 +1,38 @@
+/* nav styles */
+
+.navbar-brand{
+  margin:-15px 0 0 0;
+  padding: 0;
+}
+.navbar-brand img{
+  max-width: 200px;
+}
+.navbar-custom {
+	border: 0;
+	border-radius: 0;
+	margin: 30px 0 20px 0;
+	text-transform: uppercase;
+}
+
+
+.navbar-nav > li > a {
+	font-size: 12px;
+  color: #68722a;
+  padding: 0.5rem 1rem;
+}
+
+.navbar-nav > li > a:hover {
+  color: #b8d454;
+  transition: all 0.2s;
+  background: none;
+}
+
+.navbar-nav > li > a.active {
+  background: #B8D454;
+  color: white;
+  border-radius: 6px;
+}
+
+.navbar-custom .navbar-toggle .icon-bar {
+	background: #222;
+}
