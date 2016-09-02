@@ -1,34 +1,41 @@
 /* home styles */
 
-body{ font-family: 'Open Sans', sans-serif}
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
 
 /* --------------------- home hero  --------------------- */
-#home-page section.hero .img-hero{
+
+#home-page section.hero{
   background: url('/images/home-hero-bg.jpg');
   background-size: cover;
   background-position: 0 50%;
 }
+
 @media (min-width: 1100px) {
-  #home-page section.hero .img-hero{
-    height: 300px;
-    /*background-position: 0 65%;*/
+  #home-page section.hero{
+    height: 220px;
   }
 }
+
 @media (max-width: 1099px) {
-  #home-page section.hero .img-hero{
-    height: 250px;
+  #home-page section.hero{
+    height: 170px;
   }
 }
+
 /* -------------------- home hero end  ------------------- */
 
 .main-slogan{
-  padding: 2em;
+  padding: 0.85em;
   background: #231E1E;
 }
+
 .main-slogan h4{
-  margin:0;
   color:white;
-  line-height: 1.7em;
+  line-height: 2.8rem;
+  font-size: 1.65rem;
   text-align: center;
-  text-shadow: 2px 2px rgba(0, 0, 0, 0.8);
+  text-shadow: 3px 3px rgba(0, 0, 0, 0.8);
 }

@@ -1,0 +1,30 @@
+/* footer styles */
+
+footer{
+  border-top: 10px solid #181007;
+  background: #242507;
+}
+
+footer p {
+  font-size: 12px;
+  font-weight: 300;
+  padding: 1rem 0 2rem 0;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+footer ul {
+  margin-top: 1rem;
+  list-style: none;
+}
+
+footer ul li, footer ul li a {
+  font-size: 1.2rem;
+  color:rgba(255,255,255,0.8);
+  padding: 0.2rem 0;
+}
+
+footer img.footer-logo {
+  width: 125px;
+  padding: 1rem;
+  opacity: 0.8;
+}

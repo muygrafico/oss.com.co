@@ -4,6 +4,7 @@
   margin:-15px 0 0 0;
   padding: 0;
 }
+
 .navbar-brand img{
   max-width: 200px;
 }
@@ -13,7 +14,6 @@
 	margin: 30px 0 20px 0;
 	text-transform: uppercase;
 }
-
 
 .navbar-nav > li > a {
 	font-size: 12px;
