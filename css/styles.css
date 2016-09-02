@@ -1,8 +1,67 @@
 /* home styles */
+img {width: 100%}
 
 body{
+  color:#555;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+}
+
+section{
+  margin-bottom: 1rem;
+}
+
+p{
+  font-size: 1.2rem;
+  line-height: 1.9rem;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 1rem;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  -webkit-transition: all 0.2s;
+  background: #b8d454;
+  border-radius: 5px;
+  border: 1px solid #90a839;
+  color: #fff !important;
+  padding: 5px 10px;
+  transition: all 0.2s;
+}
+
+.button:hover{
+  background: #80972e;
+  border-color: #4c591b;
+  text-decoration: none;
+}
+
+.side-margins{
+  margin-left: 1.1rem;
+  margin-right: 1.1rem;
+}
+
+h4.subtitle{
+  font-size: 1.8rem;
+  margin-top: 30px;
+  margin-bottom: 25px;
+  border-bottom: 2px solid;
+  padding-bottom: 15px;
+}
+
+.pipes {background: url('../images/pipes-bg.png') no-repeat right;}
+
+h5.subtitle{
+  font-size: 1.5rem;
+  line-height: 2rem;
+  margin-bottom: 25px;
+}
+
+.subtitle{
+  color: #b8d454;
+  font-weight: bold;
+  margin-right: 20px;
 }
 
 /* --------------------- home hero  --------------------- */
@@ -10,12 +69,13 @@ body{
 #home-page section.hero{
   background: url('/images/home-hero-bg.jpg');
   background-size: cover;
-  background-position: 0 50%;
+  background-position: 0 70%;
+  margin-bottom: 0;
 }
 
 @media (min-width: 1100px) {
   #home-page section.hero{
-    height: 220px;
+    height: 240px;
   }
 }
 
@@ -38,4 +98,21 @@ body{
   font-size: 1.65rem;
   text-align: center;
   text-shadow: 3px 3px rgba(0, 0, 0, 0.8);
+}
+.alliances-logos{
+  margin: 0 auto;
+  list-style: none;
+}
+
+.alliances-logos img {
+    -webkit-filter: grayscale(100%);
+    -webkit-transition: all 0.4s;
+    filter: grayscale(100%);
+    max-width: 150px;
+    transition: all 0.4s;
+}
+
+.alliances-logos img:hover {
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
 }

@@ -8,11 +8,15 @@
   padding: 0.5rem 1.2rem 0.5rem 0;
 }
 
-
 .nav-languages a.active {
   color: #B8D454;
 }
 
 .nav-languages li:first-child a {
   border-right: 2px solid #B8D454;
+}
+
+.nav-languages a:hover {
+  color: #B8D454;
+  text-decoration: none;
 }
