@@ -9,7 +9,7 @@
           <li><a href="callto:+5717027251"><i class="glyphicon glyphicon-earphone"></i> (+57) 1 702 7251</a></li>
           <li><a href="mailto:contacto@oss.com.co"><i class="glyphicon glyphicon-envelope"></i> contacto@oss.com.co</a></li>
         </ul>
-        <p>Copyright © 2016 Oilfield Services & Supplies S.A.S. Todos los derechos reservados.</p>
+        <p>Copyright © 2016 Oilfield Services & Supplies S.A.S. - Todos los derechos reservados</p>
       </div>
     </div>
   </div>

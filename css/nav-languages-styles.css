@@ -1,0 +1,18 @@
+.nav-languages{
+  margin-top: 1.4rem;
+}
+
+.nav-languages a {
+  color:white;
+  font-size: 1.4rem;
+  padding: 0.5rem 1.2rem 0.5rem 0;
+}
+
+
+.nav-languages a.active {
+  color: #B8D454;
+}
+
+.nav-languages li:first-child a {
+  border-right: 2px solid #B8D454;
+}

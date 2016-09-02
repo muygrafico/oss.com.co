@@ -1,17 +1,22 @@
 /* nav styles */
 
+header{
+  padding: 0.55rem 0;
+}
+
 .navbar-brand{
-  margin:-15px 0 0 0;
+  margin:-20px 0 0 0;
   padding: 0;
 }
 
 .navbar-brand img{
   max-width: 200px;
 }
+
 .navbar-custom {
 	border: 0;
 	border-radius: 0;
-	margin: 30px 0 20px 0;
+	margin: 30px 0 10px 0;
 	text-transform: uppercase;
 }
 
