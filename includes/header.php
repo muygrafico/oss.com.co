@@ -9,7 +9,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="index.php">
           <img src="images/nav-logo.png" class="img-responsive" alt="oilfield services and supplies logo">
         </a>
       </div>
@@ -17,7 +17,7 @@
         <ul class="nav navbar-nav navbar-right">
           <li><a href="index.php">Inicio</a></li>
           <li><a href="nosotros.php">Nosotros</a></li>
-          <li><a href="#home">Servicios</a></li>
+          <li><a href="servicios.php">Servicios</a></li>
           <li><a href="#testimonials">Hseq</a></li>
           <li><a href="#contact">Clientes</a></li>
           <li><a href="#contact">Contáctenos</a></li>

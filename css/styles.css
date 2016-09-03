@@ -30,9 +30,16 @@ p{
   margin-bottom: 6rem;
 }
 
+.btn-sm{ margin-top: -4px;}
+
+.thumbnail{
+  border: 1px solid #999;
+  border-radius: 0;
+}
+
 .button {
   display: inline-block;
-  margin-top: 1rem;
+  /*margin-top: 1rem;*/
   -moz-transition: all 0.2s;
   -ms-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -41,7 +48,7 @@ p{
   border-radius: 5px;
   border: 1px solid #90a839;
   color: #fff !important;
-  padding: 5px 10px;
+  /*padding: 5px 10px;*/
   transition: all 0.2s;
 }
 
@@ -78,7 +85,7 @@ p{
 }
 
 .about-us-image{
- padding: 0 3rem;
+ /*padding: 0 3rem;*/
 }
 .about-us-image img{
   border: 1px solid #999;
