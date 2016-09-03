@@ -55,7 +55,7 @@
 
       </div>
 
-      <div class='row'>
+      <div class='row margin-tb-2'>
         <div class='col-sm-6'>
           <h6>Misión</h6>
           <p>
@@ -63,11 +63,12 @@
           </p>
           <p><br>
             A través de nuestros servicios y productos proporcionamos valor agregado para el beneficio de nuestros clientes, nuestra gente y la organización.
-          </p>
+          </p><br>
           <h6>Visión</h6>
           <p>
             Oilfield Services & Supplies y su personal serán reconocidos como los mejores aliados de nuestros clientes y líderes en el suministro de productos, nueva tecnología y en la prestación de servicios a la industria petrolera en Colombia. Nuestro compromiso empieza desde el momento de la creación de Oilfield Services & Supplies y deberá ser consolidada en el 2015 con las siguientes premisas.
-          </p>
+          </p><br>
+
         </div>
         <div class='col-sm-6'>
           <div class='about-us-image'>

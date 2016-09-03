@@ -89,7 +89,7 @@ p{
 .values-green-box {
   background: #78850A;
   padding: 3rem 1rem;
-  margin: 4rem 3rem 5rem 3rem;
+  margin: 4rem 3rem 0 3rem;
   border-radius: 6px;
 }
 
@@ -98,8 +98,6 @@ p{
     background: url('../images/tuberia_fondo.png') no-repeat top right;
   }
 }
-
-
 
 h6 {
   margin: 1.5rem 0;
