@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang='en'>
+<?php include 'includes/head.php';?>
+<body>
+  <?php include 'includes/header.php';?>
+  <?php include 'includes/mini-hero.php';?>
+
+  <section class='pipes-bg'>
+
+    <div class='container'>
+      <div class='row text-center'>
+        <div class='col-md-6 col-md-offset-3'>
+          <h2 class='section-title'>HSEQ</h2>
+          <p class='values-text'>
+            <strong>Oilfield Services & Supplies está certificada en Calidad, Medio Ambiente y Salud Ocupacional con las normas ISO 9001, ISO 14001 & OHSAS 18001 las cuales confirman nuestro compromiso y alto nivel de exigencia en la gestión profesional de nuestro equipo de trabajo en HSEQ.</strong>
+          </p>
+        </div>
+      </div>
+
+      <br>
+
+      <div class="row logos">
+
+        <div class='col-lg-3 col-md-4 col-xs-6'>
+            <a href='#' class='logo'>
+                <img class='img-responsive' src='images/clients/client-1.jpg' alt='' />
+            </a>
+        </div>
+        <div class='col-lg-3 col-md-4 col-xs-6'>
+            <a href='#'lass='logo'>
+                <img class='img-responsive' src='images/clients/client-2.jpg' alt='' />
+            </a>
+        </div>
+        <div class='col-lg-3 col-md-4 col-xs-6'>
+          <a href='#' class='logo'>
+              <img class='img-responsive' src='images/clients/client-3.jpg' alt='' />
+          </a>
+        </div>
+        <div class='col-lg-3 col-md-4 col-xs-6'>
+          <a href='#' class='logo'>
+              <img class='img-responsive' src='images/clients/client-4.jpg' alt='' />
+          </a>
+        </div>
+        <div class='col-lg-3 col-md-4 col-xs-6'>
+          <a href='#' class='logo'>
+              <img class='img-responsive' src='images/clients/client-5.jpg' alt='' />
+          </a>
+        </div>
+        <div class='col-lg-3 col-md-4 col-xs-6'>
+          <a href='#' class='logo'>
+              <img class='img-responsive' src='images/clients/client-6.jpg' alt='' />
+          </a>
+        </div>
+        <div class='col-lg-3 col-md-4 col-xs-6'>
+          <a href='#' class='logo'>
+              <img class='img-responsive' src='images/clients/client-7.jpg' alt='' />
+          </a>
+        </div>
+        <div class='col-lg-3 col-md-4 col-xs-6'>
+          <a href='#' class='logo'>
+              <img class='img-responsive' src='images/clients/client-9.jpg' alt='' />
+          </a>
+        </div>
+        <div class='col-lg-3 col-md-4 col-xs-6'>
+          <a href='#' class='logo'>
+              <img class='img-responsive' src='images/clients/client-10.jpg' alt='' />
+          </a>
+        </div>
+        <div class='col-lg-3 col-md-4 col-xs-6'>
+          <a href='#' class='logo'>
+              <img class='img-responsive' src='images/clients/client-11.jpg' alt='' />
+          </a>
+        </div>
+
+    </div>
+  </div>
+  </section>
+
+  <?php include 'includes/footer.php';?>
+</body>
+</html>
+<script type='text/javascript'>
+  $(function() {
+    $('.navbar-nav li:nth-child(5) a').addClass('active');
+    $('.nav-languages li:nth-child(2) a').addClass('active');
+  });
+</script>

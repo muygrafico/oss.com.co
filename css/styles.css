@@ -104,6 +104,19 @@ p{
   border-radius: 6px;
 }
 
+.logos img {
+    -webkit-filter: grayscale(100%);
+    -webkit-transition: all 0.4s;
+    filter: grayscale(100%);
+    max-width: 250px;
+    transition: all 0.4s;
+}
+
+.logos img:hover {
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+
 @media (min-width: 980px) {
   .pipes-bg{
     background: url('../images/tuberia_fondo.png') no-repeat top right;
