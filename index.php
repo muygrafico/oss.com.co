@@ -91,7 +91,7 @@
         <p>
           Oilfield Services & Supplies es una empresa de servicios creada en Abril del 2009, con el propósito de prestar servicios a nuestros Clientes de la industria del petróleo y gas, en el monitoreo y prueba de pozos con equipos de nueva tecnología multifásica y en el bombeo de fluidos downhole para el reacondicionamiento de pozos.
         </p>
-        <a class='button' href='nosotros.php'>
+        <a class='button btn-primary' href='nosotros.php'>
           Conoce más sobre OSS
         </a>
       </div>

@@ -18,7 +18,9 @@
       </div>
 
       <div class='row'>
-        <h4 class='subtitle pipes'>Medicion Multifásica para Pruebas de Pozos</h4>
+        <div class="col-sm-12">
+          <h4 class='subtitle pipes'>Medición Multifásica para Pruebas de Pozos</h4>
+        </div>
         <div class='col-sm-6'>
           <p>
             El servicio de medición Multifásica de Oilfield Services & Supplies utiliza la tecnología de Haimo Technologies Inc. Este servicio utiliza un equipo compacto y ligero para el despliegue rápido y seguro durante las operaciones de prueba de pozo. Esto ha permitido a diferentes Clientes realizar el monitoreo preciso de los caudales de flujo de aceite, gas y agua.
@@ -142,7 +144,7 @@
     </div>
 
   </section>
-
+  <br><br>
 
 <!-- Modal 1 -->
 <div class='modal fade' id='modal-1' tabindex='-1' role='dialog' aria-labelledby='modal-1-label'>
