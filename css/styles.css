@@ -12,8 +12,22 @@ section{
 }
 
 p{
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   line-height: 1.9rem;
+}
+
+.vision-point{
+  margin-bottom: 3.5rem;
+}
+
+.vision-point strong{
+  color: #b8d454;
+  text-transform: uppercase;
+}
+
+.margin-tb-2{
+  margin-top: 6rem;
+  margin-bottom: 6rem;
 }
 
 .button {
@@ -40,6 +54,57 @@ p{
 .side-margins{
   margin-left: 1.1rem;
   margin-right: 1.1rem;
+}
+.section-title {
+  color: #b8d454;
+}
+
+.values-text{
+  font-weight: bold;
+  color:#777;
+  font-size: 1.35rem;
+}
+
+.values-list{
+  list-style: none;
+  color:white;
+  margin: 0;
+  padding: 0;
+}
+
+.values-list li {
+  padding: 0.4rem 0;
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.about-us-image{
+ padding: 0 3rem;
+}
+.about-us-image img{
+  border: 1px solid #999;
+  padding: 10px;
+  /*margin: 2rem 0;*/
+}
+
+.values-green-box {
+  background: #78850A;
+  padding: 3rem 1rem;
+  margin: 4rem 3rem 5rem 3rem;
+  border-radius: 6px;
+}
+
+@media (min-width: 980px) {
+  .pipes-bg{
+    background: url('../images/tuberia_fondo.png') no-repeat top right;
+  }
+}
+
+
+
+h6 {
+  margin: 1.5rem 0;
+  font-size: 1.4rem;
+  font-weight: bold;
 }
 
 h4.subtitle{
@@ -86,6 +151,30 @@ section.hero{
 }
 
 /* -------------------- home hero end  ------------------- */
+
+/* --------------------- mini hero  --------------------- */
+
+section.mini-hero{
+  background: url('/images/home-hero-bg.jpg');
+  background-size: cover;
+  background-position: 0 70%;
+  margin-bottom: 0;
+  border-bottom: 10px solid #181007;
+}
+
+@media (min-width: 1100px) {
+  section.mini-hero{
+    height: 100px;
+  }
+}
+
+@media (max-width: 1099px) {
+  section.mini-hero{
+    height: 80px;
+  }
+}
+
+/* -------------------- mini hero end  ------------------- */
 
 .main-slogan{
   padding: 0.85em;
