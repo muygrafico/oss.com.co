@@ -202,11 +202,15 @@ section.mini-hero{
   list-style: none;
 }
 
+.alliances-logos li{
+  display: inline-block;
+}
+
 .alliances-logos img {
     -webkit-filter: grayscale(100%);
     -webkit-transition: all 0.4s;
     filter: grayscale(100%);
-    max-width: 150px;
+    max-width: 250px;
     transition: all 0.4s;
 }
 

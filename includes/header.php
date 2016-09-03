@@ -18,9 +18,9 @@
           <li><a href="index.php">Inicio</a></li>
           <li><a href="nosotros.php">Nosotros</a></li>
           <li><a href="servicios.php">Servicios</a></li>
-          <li><a href="#testimonials">Hseq</a></li>
-          <li><a href="#contact">Clientes</a></li>
-          <li><a href="#contact">Contáctenos</a></li>
+          <li><a href="hseq.php">Hseq</a></li>
+          <li><a href="clientes.php">Clientes</a></li>
+          <li><a href="contacto.php">Contáctenos</a></li>
         </ul>
       </div>
     </div>
