@@ -95,7 +95,7 @@
     <div class="row">
       <div class="col-sm-6">
         <div class='about-us-image'>
-          <img  src='images/services/services-1.jpg' alt='' />
+          <img  src='images/services/services-2.jpg' alt='' />
         </div>
       </div>
       <div class="col-sm-6">
@@ -130,7 +130,7 @@
 
             <!-- <div class='col-lg-3 col-md-4 col-xs-6 thumb'> -->
               <a class='thumbnail' href='#'>
-                  <img class='img-responsive' src='images/services/services-2.jpg' alt='' />
+                  <img class='img-responsive' src='images/services/services-3.jpg' alt='' />
               </a>
             <!-- </div> -->
           </div>
