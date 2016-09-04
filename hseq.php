@@ -21,14 +21,22 @@
 
       <div class="row">
         <div class="col-sm-6">
-            <h5 class='subtitle'>Política de Prevencion de Adicciones y Promoción de la Salud</h5>
+            <h5 class='subtitle'>Política de Prevención de Adicciones y Promoción de la Salud</h5>
             <p>
               El consumo, posesión y venta de alcohol, drogas o cigarrillo en las áreas en donde ejecutan sus actividades Oilfield Services & Supplies y contratistas, así como presentarse a laborar o conducir vehículos de la empresa o prestar sus servicios bajo los efectos del alcohol y/o drogas está <strong>PROHIBIDO</strong>.
             </p>
             <ul class='list-group'>
               <li class='list-group-item'>
-                <span>Documento completo</span>
-                <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+                <!-- <span>Política de Prevención de Adicciones y Promoción de la Salud</span> -->
+                <!-- <a class='btn btn-sm button pull-right' target='_blank' href='downloads/politica-prevenciones.pdf'>descargar PDF <i class='glyphicon glyphicon-download'></i></a> -->
+                <div class="row">
+                  <div class="col-xs-8 col-xl-8 item">
+                    <span>Prevención de Adicciones y Promoción de la Salud</span>
+                  </div>
+                  <div class="col-xs-4 col-xl-4 item text-right">
+                      <a class='btn btn-sm button' target='_blank' href='downloads/politica-prevenciones.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
+                  </div>
+                </div>
               </li>
             </ul>
         </div>
@@ -39,12 +47,63 @@
             </p>
             <ul class='list-group'>
               <li class='list-group-item'>
-                <span>Documento completo</span>
-                <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+                <div class="row">
+                  <div class="col-xs-8 col-xl-8 item">
+                    <span>Política Integral de HSEQ</span>
+                  </div>
+                  <div class="col-xs-4 col-xl-4 item text-right">
+                    <a class='btn btn-sm button pull-right' target='_blank' href='downloads/politica-integral.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
+                  </div>
+                </div>
               </li>
             </ul>
         </div>
       </div>
+
+      <div class="row">
+        <div class="col-sm-6">
+            <h5 class='subtitle'>Política de Seguridad Vial</h5>
+            <p>
+              En Oilfield Services and Supplies SAS se ha identificado la conducción de vehículos como uno de los más altos riesgos de accidente lo que puede resultar en lesiones para el personal y daño a la propiedad, por esta razón se establece esta política con el ánimo de prevenir la ocurrencia de estos eventos.
+            </p>
+            <ul class='list-group'>
+              <li class='list-group-item'>
+                <div class="row">
+                  <div class="col-xs-8 col-xl-8 item">
+                    <span>Política de Seguridad Vial</span>
+                  </div>
+                  <div class="col-xs-4 col-xl-4 item text-right">
+                    <a class='btn btn-sm button pull-right' target='_blank' href='downloads/politica-seguridad-vial.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
+                  </div>
+                </div>
+              </li>
+            </ul>
+        </div>
+        <div class="col-sm-6">
+            <h5 class='subtitle'>Certificaciones ISO</h5>
+            <p>
+              A continuación estan disponibles los pdf de las certificaciones ISO:
+            </p>
+            <ul class='list-group'>
+              <li class='list-group-item'>
+                <span>ISO 9001</span>
+                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-iso- 9001-2015.pdf'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+              </li>
+              <li class='list-group-item'>
+                <span>ISO 14001</span>
+                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-iso-14001-2015.pdf'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+              </li>
+              <li class='list-group-item'>
+                <span>OHSAS 18001</span>
+                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-OHSAS-18001-2015.pdf'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+              </li>
+
+
+
+            </ul>
+        </div>
+      </div>
+
     </div>
 
   </section>
@@ -61,10 +120,10 @@
       <div class='col-sm-12 text-center'>
         <ul class='alliances-logos'>
           <li>
-            <a target='_blank' href='http://www.haimo.com.cn/english'><img src='images/hseq/certificado-iso.jpg' alt='' /></a>
+            <a  href='#'><img src='images/hseq/certificado-iso.jpg' alt='' /></a>
           </li>
           <li>
-            <a target='_blank' href='http://www.haimo.com.cn/english'><img src='images/hseq/certificado-ccs.jpg' alt='' /></a>
+            <a target='_blank' target='_blank' href='http://ccs.org.co/'><img src='images/hseq/certificado-ccs.jpg' alt='' /></a>
           </li>
 
         </ul>
