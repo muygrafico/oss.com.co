@@ -231,3 +231,24 @@ section.mini-hero{
   -webkit-filter: grayscale(0%);
   filter: grayscale(0%);
 }
+
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+
+}
+.contact-list li{
+  margin-bottom: 1.5rem;
+}
+.contact-list li a i{
+  color: #b8d454;
+}
+
+.contact-list li a{
+  color: #555;
+}
+
+.contact-form{
+  margin-top: 3.5rem;
+}
