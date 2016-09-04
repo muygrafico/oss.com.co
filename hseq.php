@@ -87,15 +87,15 @@
             <ul class='list-group'>
               <li class='list-group-item'>
                 <span>ISO 9001</span>
-                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-iso- 9001-2015.pdf'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-iso- 9001-2015.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
               </li>
               <li class='list-group-item'>
                 <span>ISO 14001</span>
-                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-iso-14001-2015.pdf'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-iso-14001-2015.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
               </li>
               <li class='list-group-item'>
                 <span>OHSAS 18001</span>
-                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-OHSAS-18001-2015.pdf'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-OHSAS-18001-2015.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
               </li>
 
 
@@ -120,7 +120,7 @@
       <div class='col-sm-12 text-center'>
         <ul class='alliances-logos'>
           <li>
-            <a  href='#'><img src='images/hseq/certificado-iso.jpg' alt='' /></a>
+            <a target='_blank' href='http://www.bureauveritas.com.co/'><img src='images/hseq/certificado-iso.jpg' alt='' /></a>
           </li>
           <li>
             <a target='_blank' target='_blank' href='http://ccs.org.co/'><img src='images/hseq/certificado-ccs.jpg' alt='' /></a>

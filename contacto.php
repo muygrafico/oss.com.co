@@ -76,8 +76,8 @@
         <h4 class='subtitle'>Oficina en Bogotá D.C</h4>
         <ul class='contact-list'>
 
-          <li><a href="callto:+5717498614"><i class="glyphicon glyphicon-earphone"></i> (+57) 1 749 8614</a></li>
-          <li><a href="callto:+5717027251"><i class="glyphicon glyphicon-earphone"></i> (+57) 1 702 7251</a></li>
+          <li><a target='_blank' href="https://www.google.com/maps?cid=6267698027426220649">Cra 9B # 117A-41</a></li>
+          <li><a href="callto:+5717498614"><i class="glyphicon glyphicon-earphone"></i> (+57) 1 749 8614</a> | <a href="callto:+5717027251"><i class="glyphicon glyphicon-earphone"></i> (+57) 1 702 7251</a></li>
           <li><a href="mailto:contacto@oss.com.co"><i class="glyphicon glyphicon-envelope"></i> contacto@oss.com.co</a></li>
         </ul>
         <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2430.868257868276!2d-74.0371136414186!3d4.696161278974693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x56fb5625f4280a69!2sOilfield+Services+%26+Supplies!5e0!3m2!1ses-419!2s!4v1472945900001"></iframe>
