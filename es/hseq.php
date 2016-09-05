@@ -28,13 +28,13 @@
             <ul class='list-group'>
               <li class='list-group-item'>
                 <!-- <span>Política de Prevención de Adicciones y Promoción de la Salud</span> -->
-                <!-- <a class='btn btn-sm button pull-right' target='_blank' href='downloads/politica-prevenciones.pdf'>descargar PDF <i class='glyphicon glyphicon-download'></i></a> -->
+                <!-- <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/politica-prevenciones.pdf'>descargar PDF <i class='glyphicon glyphicon-download'></i></a> -->
                 <div class="row">
                   <div class="col-xs-8 col-xl-8 item">
                     <span>Prevención de Adicciones y Promoción de la Salud</span>
                   </div>
                   <div class="col-xs-4 col-xl-4 item text-right">
-                      <a class='btn btn-sm button' target='_blank' href='downloads/politica-prevenciones.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
+                      <a class='btn btn-sm button' target='_blank' href='../downloads/politica-prevenciones.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
                   </div>
                 </div>
               </li>
@@ -52,7 +52,7 @@
                     <span>Política Integral de HSEQ</span>
                   </div>
                   <div class="col-xs-4 col-xl-4 item text-right">
-                    <a class='btn btn-sm button pull-right' target='_blank' href='downloads/politica-integral.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
+                    <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/politica-integral.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
                   </div>
                 </div>
               </li>
@@ -73,7 +73,7 @@
                     <span>Política de Seguridad Vial</span>
                   </div>
                   <div class="col-xs-4 col-xl-4 item text-right">
-                    <a class='btn btn-sm button pull-right' target='_blank' href='downloads/politica-seguridad-vial.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
+                    <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/politica-seguridad-vial.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
                   </div>
                 </div>
               </li>
@@ -87,15 +87,15 @@
             <ul class='list-group'>
               <li class='list-group-item'>
                 <span>ISO 9001</span>
-                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-iso- 9001-2015.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
+                <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/certificacion-iso- 9001-2015.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
               </li>
               <li class='list-group-item'>
                 <span>ISO 14001</span>
-                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-iso-14001-2015.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
+                <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/certificacion-iso-14001-2015.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
               </li>
               <li class='list-group-item'>
                 <span>OHSAS 18001</span>
-                <a class='btn btn-sm button pull-right' target='_blank' href='downloads/certificacion-OHSAS-18001-2015.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
+                <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/certificacion-OHSAS-18001-2015.pdf'>PDF <i class='glyphicon glyphicon-download'></i></a>
               </li>
 
 

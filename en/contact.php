@@ -55,7 +55,7 @@
                 <div class="form-group">
                   <label class="col-md-3 control-label" for="message">Your message</label>
                   <div class="col-md-9">
-                    <textarea class="form-control" id="message" name="message" required placeholder="Escriba su mensaje aquí" rows="7"></textarea>
+                    <textarea class="form-control" id="message" name="message" required placeholder="Write you message here" rows="7"></textarea>
                   </div>
                 </div>
 
