@@ -23,52 +23,52 @@
 
         <div class='col-lg-3 col-md-4 col-xs-6'>
             <a target='_blank' href='http://www.interoil.com.co/' class='logo'>
-                <img class='img-responsive' src='images/clients/client-1.jpg' alt='' />
+                <img class='img-responsive' src='../images/clients/client-1.jpg' alt='' />
             </a>
         </div>
         <div class='col-lg-3 col-md-4 col-xs-6'>
             <a target='_blank' href='http://www.hocol.com.co/'lass='logo'>
-                <img class='img-responsive' src='images/clients/client-2.jpg' alt='' />
+                <img class='img-responsive' src='../images/clients/client-2.jpg' alt='' />
             </a>
         </div>
         <div class='col-lg-3 col-md-4 col-xs-6'>
           <a target='_blank' href='http://www.emeraldenergy.com/' class='logo'>
-              <img class='img-responsive' src='images/clients/client-3.jpg' alt='' />
+              <img class='img-responsive' src='../images/clients/client-3.jpg' alt='' />
           </a>
         </div>
         <div class='col-lg-3 col-md-4 col-xs-6'>
           <a target='_blank' href='http://www.pacific.energy/' class='logo'>
-              <img class='img-responsive' src='images/clients/client-4.jpg' alt='' />
+              <img class='img-responsive' src='../images/clients/client-4.jpg' alt='' />
           </a>
         </div>
         <div class='col-lg-3 col-md-4 col-xs-6'>
           <a target='_blank' href='http://www.p1energycorp.com/' class='logo'>
-              <img class='img-responsive' src='images/clients/client-5.jpg' alt='' />
+              <img class='img-responsive' src='../images/clients/client-5.jpg' alt='' />
           </a>
         </div>
         <div class='col-lg-3 col-md-4 col-xs-6'>
           <a target='_blank' href='http://www.mansarovar.com.co/' class='logo'>
-              <img class='img-responsive' src='images/clients/client-6.jpg' alt='' />
+              <img class='img-responsive' src='../images/clients/client-6.jpg' alt='' />
           </a>
         </div>
         <div class='col-lg-3 col-md-4 col-xs-6'>
           <a target='_blank' href='http://www.vetragroup.com/' class='logo'>
-              <img class='img-responsive' src='images/clients/client-7.jpg' alt='' />
+              <img class='img-responsive' src='../images/clients/client-7.jpg' alt='' />
           </a>
         </div>
         <div class='col-lg-3 col-md-4 col-xs-6'>
           <a target='_blank' href='http://www.petrobras.com/' class='logo'>
-              <img class='img-responsive' src='images/clients/client-9.jpg' alt='' />
+              <img class='img-responsive' src='../images/clients/client-9.jpg' alt='' />
           </a>
         </div>
         <div class='col-lg-3 col-md-4 col-xs-6'>
           <a target='_blank' href='http://www.equion-energia.com/' class='logo'>
-              <img class='img-responsive' src='images/clients/client-10.jpg' alt='' />
+              <img class='img-responsive' src='../images/clients/client-10.jpg' alt='' />
           </a>
         </div>
         <div class='col-lg-3 col-md-4 col-xs-6'>
           <a target='_blank' href='http://www.petrominerales.com/' class='logo'>
-              <img class='img-responsive' src='images/clients/client-11.jpg' alt='' />
+              <img class='img-responsive' src='../images/clients/client-11.jpg' alt='' />
           </a>
         </div>
 

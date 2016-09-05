@@ -120,10 +120,10 @@
       <div class='col-sm-12 text-center'>
         <ul class='alliances-logos'>
           <li>
-            <a target='_blank' href='http://www.bureauveritas.com.co/'><img src='images/hseq/certificado-iso.jpg' alt='' /></a>
+            <a target='_blank' href='http://www.bureauveritas.com.co/'><img src='../images/hseq/certificado-iso.jpg' alt='' /></a>
           </li>
           <li>
-            <a target='_blank' target='_blank' href='http://ccs.org.co/'><img src='images/hseq/certificado-ccs.jpg' alt='' /></a>
+            <a target='_blank' target='_blank' href='http://ccs.org.co/'><img src='../images/hseq/certificado-ccs.jpg' alt='' /></a>
           </li>
 
         </ul>

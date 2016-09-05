@@ -10,7 +10,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="index.php">
-          <img src="images/nav-logo.png" class="img-responsive" alt="oilfield services and supplies logo">
+          <img src="../images/nav-logo.png" class="img-responsive" alt="oilfield services and supplies logo">
         </a>
       </div>
       <div class="collapse navbar-collapse" id="custom-collapse">

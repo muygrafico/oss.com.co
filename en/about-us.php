@@ -72,7 +72,7 @@
         </div>
         <div class='col-sm-6'>
           <div class='about-us-image'>
-            <img  src='images/nosotros.jpg' alt='' />
+            <img src='../images/nosotros.jpg' alt='' />
           </div>
         </div>
 
@@ -109,7 +109,7 @@
         </div>
         <div class='col-sm-6 col-sm-pull-6'>
           <div class='about-us-image'>
-            <img  src='images/nosotros-2.jpg' alt='' />
+            <img  src='../images/nosotros-2.jpg' alt='' />
           </div>
         </div>
 
