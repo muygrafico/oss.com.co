@@ -108,7 +108,7 @@
     $('.contact-form').on('submit',function(e){
       e.preventDefault();
       $.ajax({
-        url: "https://formspree.io/muygrafico@gmail.com",
+        url: "https://formspree.io/contacto@oss.com.co",
         method: "POST",
         data: {
           name:$('#name').val(),
