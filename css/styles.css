@@ -156,7 +156,7 @@ h5.subtitle{
 section.hero{
   background: url('/images/home-hero-bg.jpg');
   background-size: cover;
-  background-position: 0 70%;
+  background-position: 0 50%;
   margin-bottom: 0;
 }
 
