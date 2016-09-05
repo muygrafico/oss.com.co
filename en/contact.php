@@ -10,9 +10,9 @@
     <div class='container'>
       <div class='row text-center'>
         <div class='col-md-6 col-md-offset-3'>
-          <h2 class='section-title'>Contáctenos</h2>
+          <h2 class='section-title'>Contact Us</h2>
           <p class='values-text'>
-            <strong>Envíenos su mensaje y le responderemos en el menor tiempo posible. <br>¡Muchas gracias!</strong>
+            <strong>Please send us an E-mail and we will respond as soon as possible. Thank you!</strong>
           </p>
         </div>
       </div>
@@ -22,7 +22,7 @@
   <div class="container">
     <div class="row">
         <div class="col-lg-6">
-          <h4 class='subtitle'>Formulario de contacto</h4>
+          <h4 class='subtitle'>Contact form</h4>
           <div class="contact-form">
 
               <form class="form-horizontal" action="" method="post">
@@ -30,9 +30,9 @@
                 <!-- <legend class="text-center">Formulario de contacto</legend> -->
                 <!-- Name input-->
                 <div class="form-group">
-                  <label class="col-md-3 control-label" for="name">Nombre</label>
+                  <label class="col-md-3 control-label" for="name">Name</label>
                   <div class="col-md-9">
-                    <input id="name" name="name" required type="text" placeholder="Su nombre" class="form-control">
+                    <input id="name" name="name" required type="text" placeholder="Your name" class="form-control">
                   </div>
                 </div>
 
@@ -40,20 +40,20 @@
                 <div class="form-group">
                   <label class="col-md-3 control-label" for="email">E-mail</label>
                   <div class="col-md-9">
-                    <input id="email" name="email" required type="email" placeholder="Su email" class="form-control">
+                    <input id="email" name="email" required type="email" placeholder="Your email" class="form-control">
                   </div>
                 </div>
 
                 <div class="form-group">
-                  <label class="col-md-3 control-label" for="subject">Asunto</label>
+                  <label class="col-md-3 control-label" for="subject">Subject</label>
                   <div class="col-md-9">
-                    <input id="subject" name="subject" type="text" placeholder="Asunto" class="form-control">
+                    <input id="subject" name="subject" type="text" placeholder="Subject" class="form-control">
                   </div>
                 </div>
 
                 <!-- Message body -->
                 <div class="form-group">
-                  <label class="col-md-3 control-label" for="message">Mensaje</label>
+                  <label class="col-md-3 control-label" for="message">Your message</label>
                   <div class="col-md-9">
                     <textarea class="form-control" id="message" name="message" required placeholder="Escriba su mensaje aquí" rows="7"></textarea>
                   </div>
@@ -62,7 +62,7 @@
                 <!-- Form actions -->
                 <div class="form-group">
                   <div class="col-md-12 text-right">
-                    <button type="submit" class="button btn-primary btn-lg">Enviar</button>
+                    <button type="submit" class="button btn-primary btn-lg">Send</button>
                   </div>
                 </div>
               </fieldset>
@@ -73,7 +73,7 @@
       </div>
 
       <div class="col-lg-6">
-        <h4 class='subtitle'>Oficina en Bogotá D.C</h4>
+        <h4 class='subtitle'>Bogotá D.C Office</h4>
         <ul class='contact-list'>
 
           <li><a target='_blank' href="https://www.google.com/maps?cid=6267698027426220649">Cra 9B # 117A-41</a></li>
@@ -95,7 +95,7 @@
 <script type='text/javascript'>
   $(function() {
     $('.navbar-nav li:nth-child(6) a').addClass('active');
-    $('.nav-languages li:nth-child(2) a').addClass('active');
+    $('.nav-languages li:nth-child(1) a').addClass('active');
   });
 </script>
 
@@ -120,14 +120,14 @@
         dataType: "json",
         success: function(data) {
           console.log('success',data)
-          swal({   title: "Su mensaje fue enviado",   text: "Le responderemos en el menor tiempo posible. ¡Muchas gracias!",   timer: 2000,   showConfirmButton: false });
+          swal({   title: "Your message has been send.",   text: " we will respond as soon as possible. Thank you!",   timer: 2000,   showConfirmButton: false });
           $('#name').val('');
           $('#email').val('');
           $('#subject').val('');
           $('#message').val('');
         },
         error: function(err) {
-          swal({   title: "Parece que hubo un error",   text: "Prueba tu conexión a internet, si crees que esto no deberia estar pasando porfavor escribenos a contacto@oss.com.co" });
+          swal({   title: "Error",   text: "Test your internet connection, if you believe that this should not be happening please write us to contacto@oss.com.co" });
 
           console.log(err)
         }

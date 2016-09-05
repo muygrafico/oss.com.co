@@ -10,9 +10,9 @@
     <div class='container'>
       <div class='row text-center'>
         <div class='col-md-6 col-md-offset-3'>
-          <h2 class='section-title'>HSEQ</h2>
+          <h2 class='section-title'>Our Clients</h2>
           <p class='values-text'>
-            <strong>Oilfield Services & Supplies está certificada en Calidad, Medio Ambiente y Salud Ocupacional con las normas ISO 9001, ISO 14001 & OHSAS 18001 las cuales confirman nuestro compromiso y alto nivel de exigencia en la gestión profesional de nuestro equipo de trabajo en HSEQ.</strong>
+            
           </p>
         </div>
       </div>
@@ -82,6 +82,6 @@
 <script type='text/javascript'>
   $(function() {
     $('.navbar-nav li:nth-child(5) a').addClass('active');
-    $('.nav-languages li:nth-child(2) a').addClass('active');
+    $('.nav-languages li:nth-child(1) a').addClass('active');
   });
 </script>

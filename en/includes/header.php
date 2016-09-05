@@ -17,10 +17,10 @@
         <ul class="nav navbar-nav navbar-right">
           <li><a href="index.php">Home</a></li>
           <li><a href="about-us.php">About us</a></li>
-          <li><a href="servicios.php">Services</a></li>
+          <li><a href="services.php">Services</a></li>
           <li><a href="hseq.php">Hseq</a></li>
-          <li><a href="clientes.php">Clients</a></li>
-          <li><a href="contacto.php">Contact us</a></li>
+          <li><a href="clients.php">Clients</a></li>
+          <li><a href="contact.php">Contact us</a></li>
         </ul>
       </div>
     </div>

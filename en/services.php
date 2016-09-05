@@ -10,40 +10,40 @@
     <div class='container'>
       <div class='row text-center'>
         <div class='col-md-6 col-md-offset-3'>
-          <h2 class='section-title'>Servicios</h2>
+          <h2 class='section-title'>Services</h2>
           <p class='values-text'>
-            <strong>Nuestros Servicios Especializados.</strong>
+            <strong>Our Specialized Services</strong>
           </p>
         </div>
       </div>
 
       <div class='row'>
         <div class="col-sm-12">
-          <h4 class='subtitle pipes'>Medición Multifásica para Pruebas de Pozos</h4>
+          <h4 class='subtitle pipes'>Multiphase Flow Metering Services</h4>
         </div>
         <div class='col-sm-6'>
           <p>
-            El servicio de medición Multifásica de Oilfield Services & Supplies utiliza la tecnología de Haimo Technologies Inc. Este servicio utiliza un equipo compacto y ligero para el despliegue rápido y seguro durante las operaciones de prueba de pozo. Esto ha permitido a diferentes Clientes realizar el monitoreo preciso de los caudales de flujo de aceite, gas y agua.
+            The multiphase flow metering service from Oilfield Services & Supplies utilize HAIMO Multiphase Technology, being HAIMO a manufacture and multiphase service company worldwide. This service uses compact and light equipment for fast and save deployment during well testing operations. This advantage allows many clients the performance of accurate monitoring of flow rates of oil, gas and water.
           </p><br>
           <p>
-            Con los requerimientos mínimos de instalación y un tamaño pequeño, el servicio del Medidor Multifásico Haimo reduce el costo de cada pozo probado a través de la eficiencia y la simplificación de la logística. El medidor multifásico cuenta con excelente respuesta dinámica al flujo del pozo y no requieren periodo de estabilización. En este servicio se realiza el monitoreo preciso de los caudales de flujo de aceite, gas y agua que permite a nuestros Clientes obtener mejor calidad y cantidad de data disponible por pozo para poder realizar una selección correcta de pozos candidatos para la optimización o intervención como también determinar con mayor propiedad el tipo de intervención requerida para cada pozo.
+            With minimum requirements of installation and small footprints, the HAIMO Multiphase Flow Meter reduces the cost of each well test, maximizes efficiency and simplifies logistics. The HAIMO Multiphase Flow Meter offers excellent dynamic response to well flow characteristics and requires no stabilization period. With this service Oilfield Services & Supplies offers accurate monitoring of oil, gas and water flow rates supplying our clients with better quality and quantity of data per well facilitating the correct selection of well candidates for optimization or intervention enabling the engineers with better information in order to define the type and frequency of intervention require per well. OSS offers well testing services from low producers (10 bopd) to high producers (500.000 bopd) on heavy, medium, light and gas wells.
           </p><br>
           <ul class='list-group'>
             <li class='list-group-item'>
               <span>OSS Low GOR MPFM</span>
-              <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+              <a class='btn btn-sm button pull-right' href='#'>download PDF <i class='glyphicon glyphicon-download'></i></a>
             </li>
             <li class='list-group-item'>
               <span>OSS Medidor de bajo Caudal de crudo LPT</span>
-              <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+              <a class='btn btn-sm button pull-right' href='#'>download PDF <i class='glyphicon glyphicon-download'></i></a>
             </li>
             <li class='list-group-item'>
               <span>OSS Medidor Multifásico MPFM</span>
-              <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+              <a class='btn btn-sm button pull-right' href='#'>download PDF <i class='glyphicon glyphicon-download'></i></a>
             </li>
             <li class='list-group-item'>
               <span>OSS WGM Datasheet</span>
-              <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+              <a class='btn btn-sm button pull-right' href='#'>download PDF <i class='glyphicon glyphicon-download'></i></a>
             </li>
           </ul>
         </div>
@@ -89,7 +89,7 @@
   <section class='container'>
     <div class='row'>
       <div class="col-sm-12">
-        <h4 class='subtitle pipes'>Servicios de Bombeo de Fluidos Downhole</h4>
+        <h4 class='subtitle pipes'>Downhole and Surface Pumping and Stimulation Services</h4>
       </div>
     </div>
     <div class="row">
@@ -100,15 +100,15 @@
       </div>
       <div class="col-sm-6">
         <p>
-          El objetivo de este servicio es realizar trabajos de estimulación e inhibición de orgánicos e inorgánicos (scale) por forzamiento al yacimiento mediante unidades móviles con bombas triplex de alta presión con el propósito de reducir el daño de formación e incrementar la productividad del pozo.
+          With the supply of specialize stimulation units and highly qualify personnel Oilfield Services & Supplies performs downhole stimulation services for organic and inorganic downhole treatment (scale). The use of mobile stimulation units with dual triplex pump systems helps our clients to reduce formation damage and to increase well productivity.
         </p><br>
         <p>
-          Las operaciones de cementación se ejecutan con el propósito de soportar y proteger el casing, prevenir el movimiento de fluidos a través del espacio anular detrás del casing, detener el movimiento de fluidos en formaciones fracturadas, side tracking, cierre y abandono de pozos.
+          OSS also offers equipment for production water disposal with triplex and quintuplex pumps on skid. With this service we help our clients to achieve the objectives for water injection, injectivity test and piping pressure test.
         </p><br>
         <ul class='list-group'>
           <li class='list-group-item'>
             <span>OSS Pumping Systems</span>
-            <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+            <a class='btn btn-sm button pull-right' href='#'>download PDF <i class='glyphicon glyphicon-download'></i></a>
           </li>
 
         </ul>
@@ -116,15 +116,15 @@
     </div>
     <div class="row">
       <div class="col-sm-6">
-        <h4 class='subtitle'>Facilidades Tempranas y Manejo de Aguas de Producción</h4>
+        <h4 class='subtitle'>Compact Early Production & Fast Testing Facilities</h4>
         <p>
-          Combinando los sistemas de Medición Multifásica con separadores compactos, hidrociclones sistemas compactos de separación de aceite en agua, Oilfield Services & Supplies ofrece a sus clientes una alternativa a los sistemas convencionales de facilidades tempranas para el manejo de los fluidos de producción de una manera segura y eficiente, reduciendo las áreas de construcción, optimizando el espacio, reduciendo el costo de implementación y mantenimiento.
+          Combining Multiphase Flow Meter compact equipment with compact separators, hydrocyclons and compact oil water polishing equipment Oilfield Services & Supplies offers our clients an alternative to conventional early production facilities to manage the well fluids in a safe and efficient way reducing footprints, space and overall costs.
         <br>
-        (Reducción de CAPEX y OPEX)
+        (CAPEX and OPEX reduction)
         </p>
       </div>
       <div class="col-sm-6">
-        <h4 class='subtitle'>Generación de Energía Eléctrica con Generadores de Motores a Gas</h4>
+        <h4 class='subtitle'>Power Generation with Gas Generators</h4>
         <div class="row">
           <div class="col-sm-4 thumb">
 
@@ -136,7 +136,7 @@
           </div>
           <div class="col-sm-8">
             <p>
-              Actualmente contamos con equipos desde 750 Kw-h hasta 2000 Kw-h para ser instalados en facilidades o pozos y poder así aprovechar el gas asociado a la producción de hidrocarburos reduciendo los costos en la utilización y mantenimiento de generadores con motores diesel.
+              OSS can supply generators with gas engines from 750 Kw to 2000 Kw to be used for power generation at production facilities or well sites, enabling our clients to use the associated gas and hence reduce the cost related to the maintenance and operation of generators run with diesel engines.
             </p>
           </div>
         </div>
@@ -208,6 +208,6 @@
 <script type='text/javascript'>
   $(function() {
     $('.navbar-nav li:nth-child(3) a').addClass('active');
-    $('.nav-languages li:nth-child(2) a').addClass('active');
+    $('.nav-languages li:nth-child(1) a').addClass('active');
   });
 </script>

@@ -12,7 +12,7 @@
         <div class='col-md-6 col-md-offset-3'>
           <h2 class='section-title'>Servicios</h2>
           <p class='values-text'>
-            <strong>Nuestros Servicios Especializados.</strong>
+            <strong>Nuestros Servicios Especializados</strong>
           </p>
         </div>
       </div>

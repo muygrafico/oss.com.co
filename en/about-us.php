@@ -85,7 +85,7 @@
 
           <p class='vision-point'>
             <strong>People:</strong>
-            Proporcionar un excelente ambiente laboral donde nuestro personal se motive a dar lo mejor de sí mismos.
+            Provide a great work environment where our team is motivated to give the best of themselves.
           </p>
 
           <p class='vision-point'>
@@ -125,6 +125,6 @@
 <script type='text/javascript'>
   $(function() {
     $('.navbar-nav li:nth-child(2) a').addClass('active');
-    $('.nav-languages li:nth-child(2) a').addClass('active');
+    $('.nav-languages li:nth-child(1) a').addClass('active');
   });
 </script>
