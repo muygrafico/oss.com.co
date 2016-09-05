@@ -42,7 +42,7 @@
           </a>
         </div>
         <div class='col-lg-3 col-md-4 col-xs-6'>
-          <a target='_blank' href='http://www.p1energycorp.com/' class='logo'>
+          <a target='_blank' href='http://www.omegaenergy.co/' class='logo'>
               <img class='img-responsive' src='../images/clients/client-5.jpg' alt='' />
           </a>
         </div>
