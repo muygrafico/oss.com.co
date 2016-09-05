@@ -30,22 +30,19 @@
           </p><br>
           <ul class='list-group'>
             <li class='list-group-item'>
-              <span>Haimo Low GOR MPFM</span>
+              <span>Haimo Low GOR MPFM (spanish)</span>
               <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/haimo-low-gor-mpfm.pdf' >download PDF <i class='glyphicon glyphicon-download'></i></a>
-
-
-
             </li>
             <li class='list-group-item'>
-              <span>Haimo Medidor de bajo Caudal de crudo LPT</span>
+              <span>Haimo Medidor de bajo Caudal de crudo LPT (spanish)</span>
               <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/haimo-medidor-bajo-caudal-lpt.pdf'>download PDF <i class='glyphicon glyphicon-download'></i></a>
             </li>
             <li class='list-group-item'>
-              <span>Haimo Medidor Multifásico MPFM</span>
+              <span>Haimo Medidor Multifásico MPFM (spanish)</span>
               <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/haimo-medidor-multifasico.pdf'>download PDF <i class='glyphicon glyphicon-download'></i></a>
             </li>
             <li class='list-group-item'>
-              <span>Haimo WGM Datasheet</span>
+              <span>Haimo WGM Datasheet (spanish)</span>
               <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/haimo-wgm-datasheet.pdf'>download PDF <i class='glyphicon glyphicon-download'></i></a>
             </li>
           </ul>

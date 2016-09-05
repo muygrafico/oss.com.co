@@ -31,19 +31,19 @@
           <ul class='list-group'>
             <li class='list-group-item'>
               <span>OSS Low GOR MPFM</span>
-              <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+              <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/haimo-low-gor-mpfm.pdf' >download PDF <i class='glyphicon glyphicon-download'></i></a>
             </li>
             <li class='list-group-item'>
-              <span>OSS Medidor de bajo Caudal de crudo LPT</span>
-              <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+              <span>Haimo Medidor de bajo Caudal de crudo LPT</span>
+              <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/haimo-medidor-bajo-caudal-lpt.pdf'>download PDF <i class='glyphicon glyphicon-download'></i></a>
             </li>
             <li class='list-group-item'>
-              <span>OSS Medidor Multifásico MPFM</span>
-              <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+              <span>Haimo Medidor Multifásico MPFM</span>
+              <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/haimo-medidor-multifasico.pdf'>download PDF <i class='glyphicon glyphicon-download'></i></a>
             </li>
             <li class='list-group-item'>
-              <span>OSS WGM Datasheet</span>
-              <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+              <span>Haimo WGM Datasheet</span>
+              <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/haimo-wgm-datasheet.pdf'>download PDF <i class='glyphicon glyphicon-download'></i></a>
             </li>
           </ul>
         </div>
@@ -107,10 +107,9 @@
         </p><br>
         <ul class='list-group'>
           <li class='list-group-item'>
-            <span>OSS Pumping Systems</span>
-            <a class='btn btn-sm button pull-right' href='#'>descargar PDF <i class='glyphicon glyphicon-download'></i></a>
+            <span>Haimo Pumping Systems</span>
+            <a class='btn btn-sm button pull-right' target='_blank' href='../downloads/haimo-pumping-system.pdf'>download PDF <i class='glyphicon glyphicon-download'></i></a>
           </li>
-
         </ul>
       </div>
     </div>
