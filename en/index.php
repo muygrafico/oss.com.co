@@ -22,7 +22,7 @@
       <div class='row'>
         <div class='col-lg-offset-3 col-lg-6 col-md-offset-2 col-md-8'>
           <h4>
-            We do things good for our people, our environment and our society, but especially for our clients.
+            We do things right for our people, our environment and our society, but especially for our clients.
           </h4>
         </div>
       </div>
