@@ -110,7 +110,7 @@
       <div class='col-sm-12 text-center'>
         <ul class='alliances-logos'>
           <li>
-            <a target='_blank' href='http://www.haimo.com.cn/english'><img src='../images/home/haimo-logo.jpg' alt='' /></a>
+            <a target='_blank' href='http://www.haimo.com.cn/english'><img class='not-grayscale' src='../images/home/haimo-logo.jpg' alt='' /></a>
           </li>
         </ul>
       </div>

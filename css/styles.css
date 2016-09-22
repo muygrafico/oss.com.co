@@ -219,6 +219,11 @@ section.mini-hero{
   display: inline-block;
 }
 
+.alliances-logos img.not-grayscale {
+  filter: grayscale(0);
+  -webkit-filter: grayscale(0);
+}
+
 .alliances-logos img {
     -webkit-filter: grayscale(100%);
     -webkit-transition: all 0.4s;
